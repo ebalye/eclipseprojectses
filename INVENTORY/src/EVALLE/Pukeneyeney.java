@@ -2,7 +2,7 @@ package EVALLE;
 
 import java.util.Scanner;
 
-public class PE {
+public class Pukeneyeney {
 	
 	public static void main(String[] args) {
 		
